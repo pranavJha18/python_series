@@ -20,7 +20,8 @@ print(type(string_num), type(integer_num))
 my_list = ["one", 2, "three"]
 print(my_list)
 
-# Tuples
+# Tuples:-> it is an immutabale type
+# i.e, we cannot change it's value after it's creation
 my_tuple = ("Hello", 2, "you")
 print(type(my_tuple))
 
