@@ -29,3 +29,11 @@ just_int = 100
 print(type(just_int))
 int_tuple = (100,)
 print(type(int_tuple))
+
+# Index operator
+s_string = "Python"
+print(s_string[0])
+print(len(s_string))
+my_list = ["one", 2, "three"]
+print(my_list[0])
+print(my_list[len(my_list) - 1])
