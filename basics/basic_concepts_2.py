@@ -37,3 +37,5 @@ print(len(s_string))
 my_list = ["one", 2, "three"]
 print(my_list[0])
 print(my_list[len(my_list) - 1])
+# The other way to print the last part of the above list is to use the negative number
+# index eg:my_list[-1] will print "n"
